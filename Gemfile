@@ -68,4 +68,4 @@ end
 
 gem "devise", "~> 4.9"
 
-gem "pg", "~> 1.5"
+gem "pg", "~> 1.6"
